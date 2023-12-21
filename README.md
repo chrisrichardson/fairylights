@@ -1,1 +1,3 @@
 # fairylights
+
+![](out.gif)
